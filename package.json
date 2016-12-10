@@ -1,25 +1,25 @@
 {
-  "name": "arlo",
-  "version": "0.1.0",
-  "description": "tools to generate a static site",
-  "main": "index.js",
+  "name": "gulp-arlo",
+  "version": "0.1.1",
+  "description": "Tools to create a static site with Gulp",
+  "main": "./lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joelcolucci/arlo.git"
+    "url": "git+https://github.com/joelcolucci/gulp-arlo.git"
   },
   "keywords": [
-    "static",
-    "generator"
+    "gulp",
+    "static site generator"
   ],
   "author": "Joel Colucci",
   "license": "",
   "bugs": {
-    "url": "https://github.com/joelcolucci/arlo/issues"
+    "url": "https://github.com/joelcolucci/gulp-arlo/issues"
   },
-  "homepage": "https://github.com/joelcolucci/arlo#readme",
+  "homepage": "https://github.com/joelcolucci/gulp-arlo#readme",
   "dependencies": {
     "gulp-util": "^3.0.7",
     "through2": "^2.0.3"

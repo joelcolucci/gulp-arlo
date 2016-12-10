@@ -1,5 +1,5 @@
 # gulp-arlo
-> Tools to build a static site with gulp
+> Tools to build a simple static site with Gulp.
 
 ## Getting Started
 Install with NPM:
